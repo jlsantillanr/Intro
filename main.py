@@ -1,2 +1,2 @@
-result=pow(2,1/7)
+result=pow(22,1/7)
 print(result)
